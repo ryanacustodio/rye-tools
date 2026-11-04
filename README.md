@@ -1,2 +1,3 @@
 # rye-tools
-Free tools hub
+
+Free tools hub by Rye Custodio. Hosted on Netlify.
